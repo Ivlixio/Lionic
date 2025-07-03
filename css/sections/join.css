@@ -73,12 +73,12 @@ font:nth-last-child{
     grid-column: 3 span;
     grid-auto-flow: 3 span;
 }
-input::placeholder{
+input{
     padding: 15px 30px;
 }
-textarea::placeholder{
+textarea{
     padding: 15px 30px;
 }
-select::placeholder{
+select{
     padding: 15px 30px;
 }
